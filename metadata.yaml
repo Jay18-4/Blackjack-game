@@ -1,0 +1,11 @@
+project: Blackjack Game
+description: >
+  A Python-based Blackjack game with a text-based and GUI version.
+  Uses playing card images for a graphical representation.
+author: Ifediba Chimdalu
+date: 2025-01-30
+license: MIT
+image_warning: >
+  The card images included in this project are for educational purposes only.
+  If using this project commercially, please replace the images with ones that are legally free.
+  See README.md for sources of free card images.
