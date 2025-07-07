@@ -34,10 +34,11 @@ Alternatively, you can **dynamically fetch card images** using:
 
 ---
 
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chimdalu-ifediba-3a322628b) or star ⭐ the repo if you found it useful!
 ## **💻 How to Run**
 1. Clone this repository:
    ```bash
    git clone https://github.com/Jay18-4/Blackjack-game.git
+
+## 📬 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chimdalu-ifediba-3a322628b) or star ⭐ the repo if you found it useful!
